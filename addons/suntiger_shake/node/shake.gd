@@ -1,4 +1,4 @@
-@icon("res://addons/suntiger_shake/chasetripleseven.png")
+@icon("res://addons/suntiger_shake/assets/suntiger_shake.png")
 extends Node3D
 class_name Shake
 
