@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://0e5204xuwvfs"]
+
+[ext_resource type="Script" uid="uid://udc7peneqvfe" path="res://addons/suntiger_shake/node/shake.gd" id="1_pxjgw"]
+
+[node name="Shake" type="Node3D"]
+script = ExtResource("1_pxjgw")
